@@ -61,8 +61,8 @@ You can include several new things in your password policy. My recommendations a
 • Train your users to follow these policies to keep their passwords safe.
 
 Thanking you, 
-Name: Neel P. Akolkar
-B.Tech Electronics and Telecommunications 
+Name: RAJENDRA KUMAR MOHAPATRA
+B.Tech Computer Science & Engineering 
 ```
 ## Observations:
 ```
