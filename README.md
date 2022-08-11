@@ -11,3 +11,5 @@ As a governance analyst it is part of your duties to assess the level of protect
 `What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?`
 
 Here is a sample data file containing hashes dumped together:
+
+https://github.com/Rajendrakumarmohapatra/Goldman-Sachs-Crack-The-Leaked-Password-/blob/main/Password_dump
